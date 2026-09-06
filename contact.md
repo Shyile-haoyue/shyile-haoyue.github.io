@@ -21,7 +21,7 @@ permalink: /contact/
       <p>Please feel free to contact me regarding doctoral opportunities, research interests, or academic collaboration.</p>
     </div>
     <dl class="contact-list">
-      <div><dt>Email</dt><dd><a href="mailto:your.email@example.com">your.email@example.com</a></dd></div>
+      <div><dt>Email</dt><dd><a href="mailto:sunhaoyue506@gmail.com">sunhaoyue506@gmail.com</a></dd></div>
       <div><dt>Affiliation</dt><dd>Hiroshima University</dd></div>
       <div><dt>Location</dt><dd>Higashi-Hiroshima, Japan</dd></div>
       <div><dt>Profiles</dt><dd>Google Scholar / GitHub / LinkedIn — add if relevant</dd></div>
